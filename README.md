@@ -1,3 +1,5 @@
+This repo contains the front-end code. View the back-end code [here](https://github.com/alancphilpott/merng-social-media-app-server).
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
